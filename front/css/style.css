@@ -187,7 +187,7 @@ footer {
 	display: flex;
 	flex-direction: column;
 	font-size: 14px;
-}
+	}
 footer .footerMain,
 footer .footerSecondary {
 	width: 100%;
